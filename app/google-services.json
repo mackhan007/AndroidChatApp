@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "890683107678",
-    "firebase_url": "https://chat-app-3bbfc.firebaseio.com",
-    "project_id": "chat-app-3bbfc",
-    "storage_bucket": "chat-app-3bbfc.appspot.com"
+    "project_number": "499520658483",
+    "firebase_url": "https://mackyandroid-594e3-default-rtdb.firebaseio.com",
+    "project_id": "mackyandroid-594e3",
+    "storage_bucket": "mackyandroid-594e3.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:890683107678:android:9db23f346217a50d5c87cf",
+        "mobilesdk_app_id": "1:499520658483:android:7e6ddb83cbda6b27e65746",
         "android_client_info": {
           "package_name": "com.example.macky_chat_app"
         }
       },
       "oauth_client": [
         {
-          "client_id": "890683107678-9su6dpjsl87pimlsfpaght9gt2j6bm1o.apps.googleusercontent.com",
+          "client_id": "499520658483-vl4tpv26483j1irgagg5r7lfq7nhadko.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAl0CKsHymqNU9dXWSCPFfztsXbLa4-3UE"
+          "current_key": "AIzaSyBHt1_u8WVvqMPfCmSYW1o_Z7qT3cdMCQE"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "890683107678-9su6dpjsl87pimlsfpaght9gt2j6bm1o.apps.googleusercontent.com",
+              "client_id": "499520658483-vl4tpv26483j1irgagg5r7lfq7nhadko.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

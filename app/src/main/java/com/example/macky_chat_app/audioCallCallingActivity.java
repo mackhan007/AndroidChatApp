@@ -261,10 +261,6 @@ public class audioCallCallingActivity extends AppCompatActivity {
     }
 
     private void joinChannel() {
-        String accessToken = getString(R.string.agora_access_token);
-        if (TextUtils.equals(accessToken, "") || TextUtils.equals(accessToken, "#YOUR ACCESS TOKEN#")) {
-            accessToken = null;
-        }
         mRtcEngine.joinChannel(null, call_channel_id, "", 0);
     }
 

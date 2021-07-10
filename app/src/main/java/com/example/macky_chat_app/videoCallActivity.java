@@ -260,10 +260,6 @@ public class videoCallActivity extends AppCompatActivity {
     }
 
     private void joinChannel() {
-        String token = getString(R.string.agora_access_token);
-        if (TextUtils.isEmpty(token) || TextUtils.equals(token, "#YOUR ACCESS TOKEN#")) {
-            token = null;
-        }
         mRtcEngine.joinChannel(null, call_channel_id, "", 0);
     }
 
